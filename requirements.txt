@@ -1,7 +1,7 @@
 asn1crypto==0.24.0
 chardet==3.0.4
 cliapp
-cmdtest==0.32
+cmdtest
 cryptography==2.1.4
 Django==1.11.29
 enum34==1.1.6
