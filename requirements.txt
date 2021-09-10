@@ -5,7 +5,6 @@ cmdtest
 cryptography==2.1.4
 Django==1.11.29
 enum34
-gyp
 idna==2.6
 ipaddress==1.0.17
 keyring==10.6.0
