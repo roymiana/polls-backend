@@ -4,7 +4,7 @@ cliapp
 cmdtest
 cryptography==2.1.4
 Django==1.11.29
-enum34==1.1.6
+enum34
 gyp==0.1
 idna==2.6
 ipaddress==1.0.17
